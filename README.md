@@ -1,3 +1,18 @@
+```
+       __
+    .-'  |
+   /   <\|
+  /      \'
+  |_.- o-o
+  / C  -._)\\
+ /',        |
+|   \`-,_,__,'
+(,,)====[_]=|
+  '.   ____/
+   | -|-|_
+   |____)_) [aoc - Alan Spurlock 2024]
+```
+
 # Advent of Code 2024
 
 This repository contains my solutions for [Advent of Code 2024](https://adventofcode.com/2024), an annual coding challenge that runs from December 1st to December 25th.
@@ -22,6 +37,7 @@ Each day's solution is organized in its own directory:
 | 02  | ⭐     | ⭐     |
 | 03  | ⭐     | ⭐     |
 | 04  | ⭐     | ⭐     |
+| 05  | ⭐     | ⭐     |
 | ... | ...    | ...    |
 
 ## Install

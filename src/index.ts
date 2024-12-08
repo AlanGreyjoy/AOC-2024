@@ -2,6 +2,7 @@ import * as dayOne from './dayOne'
 import * as dayTwo from './dayTwo'
 import * as dayThree from './dayThree'
 import * as dayFour from './dayFour'
+import * as dayFive from './dayFive'
 
 console.log(`
        __
@@ -47,3 +48,11 @@ const dayFourPartOneResult = dayFour.partOne()
 const dayFourPartTwoResult = dayFour.partTwo()
 console.log('  Part One Result:', dayFourPartOneResult)
 console.log('  Part Two Result:', dayFourPartTwoResult)
+
+console.log('')
+
+console.log('Day Five')
+const dayFivePartOneResult = dayFive.partOne()
+const dayFivePartTwoResult = dayFive.partTwo()
+console.log('  Part One Result:', dayFivePartOneResult)
+console.log('  Part Two Result:', dayFivePartTwoResult)
