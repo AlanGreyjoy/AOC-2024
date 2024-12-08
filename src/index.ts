@@ -1,21 +1,49 @@
 import * as dayOne from './dayOne'
 import * as dayTwo from './dayTwo'
 import * as dayThree from './dayThree'
+import * as dayFour from './dayFour'
 
+console.log(`
+       __
+    .-'  |
+   /   <\\|
+  /     \\'
+  |_.- o-o
+  / C  -._)\\
+ /',        |
+|   \`-,_,__,'
+(,,)====[_]=|
+  '.   ____/
+   | -|-|_
+   |____)_) [aoc - Alan Spurlock 2024]
+    `)
+
+console.log('Day One')
 const result = dayOne.partOne()
-console.log('Day One, Part One Result:', result)
-
 const resultTwo = dayOne.partTwo()
-console.log('Day One, Part Two Result:', resultTwo)
+console.log('  Part One Result:', result)
+console.log('  Part Two Result:', resultTwo)
 
+console.log('')
+
+console.log('Day Two')
 const dayTwoResult = dayTwo.partOne()
-console.log('Day Two, Part One Result:', dayTwoResult)
-
 const dayTwoPartTwoResult = dayTwo.partTwo()
-console.log('Day Two, Part Two Result:', dayTwoPartTwoResult)
+console.log('  Part One Result:', dayTwoResult)
+console.log('  Part Two Result:', dayTwoPartTwoResult)
 
+console.log('')
+
+console.log('Day Three')
 const dayThreePartOneResult = dayThree.partOne()
-console.log('Day Three, Part One Result:', dayThreePartOneResult)
-
 const dayThreePartTwoResult = dayThree.partTwo()
-console.log('Day Three, Part Two Result:', dayThreePartTwoResult)
+console.log('  Part One Result:', dayThreePartOneResult)
+console.log('  Part Two Result:', dayThreePartTwoResult)
+
+console.log('')
+
+console.log('Day Four')
+const dayFourPartOneResult = dayFour.partOne()
+const dayFourPartTwoResult = dayFour.partTwo()
+console.log('  Part One Result:', dayFourPartOneResult)
+console.log('  Part Two Result:', dayFourPartTwoResult)
