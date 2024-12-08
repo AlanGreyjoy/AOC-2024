@@ -2,19 +2,24 @@
 
 This repository contains my solutions for [Advent of Code 2024](https://adventofcode.com/2024), an annual coding challenge that runs from December 1st to December 25th.
 
+I decided to use TypeScript for this challenge. Normally, I use C# for the AOC, but I haven't been using C# as much lately.
+
 ## Structure
 
 Each day's solution is organized in its own directory:
 
+```
 /src/dayOne
 /src/dayTwo
 /src/etc...
+```
 
 ## Progress
 
 | Day | Part 1 | Part 2 |
 | --- | ------ | ------ |
 | 01  | ⭐     | ⭐     |
+| 02  | ⭐     | ⭐     |
 | ... | ...    | ...    |
 
 ## About Advent of Code
