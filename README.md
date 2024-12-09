@@ -19,6 +19,10 @@ This repository contains my solutions for [Advent of Code 2024](https://adventof
 
 I decided to use TypeScript for this challenge. Normally, I use C# for the AOC, but I haven't been using C# as much lately.
 
+## Interactive Shell Mode
+
+This project uses the [terminal-kit](https://github.com/cronvel/terminal-kit) library to provide an interactive shell mode. This allows you to run the solutions for each day by selecting the part you want to run.
+
 ## Structure
 
 Each day's solution is organized in its own directory:
@@ -39,6 +43,7 @@ Each day's solution is organized in its own directory:
 | 04  | ⭐     | ⭐     |
 | 05  | ⭐     | ⭐     |
 | 06  | ⭐     | ⭐     |
+| 07  | ⭐     | ⭐     |
 | ... | ...    | ...    |
 
 ## Install
@@ -50,7 +55,7 @@ npm install
 ## Run
 
 ```
-npm run dev
+npm run start
 ```
 
 ## About Advent of Code
