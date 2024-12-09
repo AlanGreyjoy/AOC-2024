@@ -6,6 +6,7 @@ import * as dayFive from './dayFive'
 import * as daySix from './daySix'
 import * as daySeven from './daySeven'
 import * as dayEight from './dayEight'
+import * as dayNine from './dayNine'
 import { terminal as term } from 'terminal-kit'
 
 /** ASCII art banner for the application */
@@ -33,7 +34,8 @@ const challenges = [
   { name: 'Day Five', parts: [dayFive.partOne, dayFive.partTwo] },
   { name: 'Day Six', parts: [daySix.partOne, daySix.partTwo] },
   { name: 'Day Seven', parts: [daySeven.partOne, daySeven.partTwo] },
-  { name: 'Day Eight', parts: [dayEight.partOne, dayEight.partTwo] }
+  { name: 'Day Eight', parts: [dayEight.partOne, dayEight.partTwo] },
+  { name: 'Day Nine', parts: [dayNine.partOne, dayNine.partTwo] }
 ]
 
 /**

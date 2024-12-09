@@ -45,6 +45,7 @@ Each day's solution is organized in its own directory:
 | 06  | ⭐     | ⭐     |
 | 07  | ⭐     | ⭐     |
 | 08  | ⭐     | ⭐     |
+| 09  | ⭐     | ⭐     |
 | ... | ...    | ...    |
 
 ## Install
